@@ -4,6 +4,7 @@ Plataforma de Avaliação de Filmes e Séries
 ---
 
 Origem do nome CineRate é a combinação de "cine" (cinema) com "rate" (avaliar).
+
 CineRate é um site onde os usuários possam pesquisar e avaliar filmes e séries, além de escrever resenhas e ver as avaliações de outros usuários.
 
 ---
